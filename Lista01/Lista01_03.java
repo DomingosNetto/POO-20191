@@ -11,5 +11,6 @@ class Lista01_03{
         N3 = LerNota.nextFloat();
         float media =((N1*2)+(N2*3)+(N3*5))/10;
         System.out.println(media);
+
 }
 }
