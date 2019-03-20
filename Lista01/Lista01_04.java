@@ -19,6 +19,7 @@ class Lista01_04{
             System.out.println("FINAL!");}
         else if(media<5.0){
             System.out.println("REPROVADO!");}
+
 }
 
 }
